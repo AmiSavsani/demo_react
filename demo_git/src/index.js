@@ -7,6 +7,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <h1>hello welcome to the github</h1>
+    <p>hello amee</p>
   </React.StrictMode>
 );
 
